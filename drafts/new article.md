@@ -162,4 +162,6 @@ _[Bold italics]_ You’re not buying a pass. You’re buying a system that pays 
 
 Simulated environment. Performance-based payouts. Name the risk model (EOD closed-balance or Trailing peak-following). Payout rails: USD bank transfer or crypto after one-time $1 wallet verification (crypto rails only). Futures: positions liquidate at rollover; next-day risk uses prior day’s closed balance. No income guarantees. No live-funding claims. “Prop firm” is a comparison term only—not our identity. With user consent, we analyze performance data to refine coaching and safeguards; we never market user trades as investments.
 
+!
+
 
