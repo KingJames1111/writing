@@ -1,0 +1,7 @@
+## 3. Clarity
+Clarity ensures your reader understands your message without confusion. Use familiar words, phrases, metaphors, and stories when introducing new concepts or describing unfamiliar things or when defining a concept, or a person, place, thing, experience, feeling, or action. Provide context in time (historical background), space (geographical or spatial details), and category (comparing it to familiar things in the same group). Context in time means giving brief historical context wherever such context might provide sufficient clarity for the reader, Context in space means giving brief geographical or spatial context wherever such context might provide sufficient clarity to the reader.  Context by category means comparing and contrasting the new or unfamiliar things with other things that belong in the same (familiar) category. Aim for a readability level between grade 5 and grade 8 to make your writing accessible. Define or describe things by referring to their larger category, explaining how they differ from other members of a larger category, and providing metaphors or illustrations that paint vivid mental pictures.
+
+**Examples:**
+- **Context in Time:** "In the digital age, where information spreads instantly, maintaining online security is crucial."
+- **Context in Space:** "Nestled between rolling hills, the village thrives on agriculture."
+- **Context by Category:** "A smartphone is a type of mobile device that combines computing functions with telephony."
